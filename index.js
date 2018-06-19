@@ -16,6 +16,7 @@ function johnLennonFacts(facts)
   while (i < facts.length)
   {
     bigfacts.push(`${facts[i]}!!!`)
+    i++
   }
   return bigfacts
 }
