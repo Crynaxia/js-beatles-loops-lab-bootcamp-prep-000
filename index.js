@@ -2,6 +2,10 @@ function theBeatlesPlay('musicians', 'instruments')
 {
   var array = [];
   
-  for()
+  for(i = 0; musicians.length - 1 , i++){
+    array.push
+    
+  }
   
 }
+
