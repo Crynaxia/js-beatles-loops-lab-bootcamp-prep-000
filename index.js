@@ -13,7 +13,7 @@ function johnLennonFacts(facts)
 {
   const bigfacts = []; 
   let i = 0;
-  while (facts.length > 0)
+  while (i < facts.length)
   {
     
   }
